@@ -1,4 +1,7 @@
 # view
+Project for Interview Jr. Application Developer - STDT 4 : Phase 2 @IET UC Davis
+author: YuangMa
+@vue/cli 5.0.1
 
 ## Project setup
 ```
